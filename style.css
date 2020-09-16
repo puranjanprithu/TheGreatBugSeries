@@ -13,21 +13,26 @@ header {
     color: white;
   }
 
- 
+ a{
+     color: rgb(51, 108, 126);
+ }
+
+
 
 p{
     padding: 20px;
-    margin: 10px;
+    margin: 15px;
 }
 * {
     box-sizing: border-box;
   }
 /* Style the footer */
 footer {
-    background-color: #777;
-    padding: 10px;
-    text-align: center;
-    color: white;
+    
+    
+    padding-top: 10px;
+    text-align: left;
+    
     }
   
 .links{
