@@ -1,0 +1,49 @@
+dnscan 
+Knockpy 
+Sublist3r 
+massdns 
+nmap 
+masscan 
+EyeWitness 
+DirBuster 
+dirsearch 
+Gitrob 
+git-secrets 
+sandcastle 
+bucket_finder 
+GoogD0rker 
+Wayback Machine 
+waybackurls 
+Sn1per 
+XRay 
+wfuzz 
+patator 
+datasploit 
+hydra 
+changeme 
+MobSF 
+Apktool 
+dex2jar 
+sqlmap 
+oxml_xxe 
+XXE Injector 
+The JSON Web Token Toolkit
+ground-control 
+ssrfDetector 
+LFISuit 
+GitTools 
+dvcs-ripper 
+tko-subs 
+HostileSubBruteforcer 
+Race the Web 
+ysoserial
+PHPGGC
+CORStest
+retire-js 
+getsploit 
+Findsploit 
+bfac 
+WPScan 
+CMSMap 
+Amass 
+Extra Tools
