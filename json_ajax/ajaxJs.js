@@ -37,7 +37,7 @@ btn.addEventListener("click",function(){
 function renderHTML(data){
     var htmlString="";
     for(i=0;i<data.length;i++){
-        htmlString +="<p><b>" + data[i].name + "</b> is a "+ data[i].species +"that likes to eat ";
+        htmlString +="<p><b>" + data[i].name + "</b> is a "+ data[i].species +" that likes to eat ";
 
         for (ii = 0; ii < data[i].foods.likes.length; ii++) {
             if (ii == 0) {
