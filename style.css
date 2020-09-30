@@ -6,8 +6,8 @@ body {
   }
 /* Style the header */
 header {
-    background-color: #666;
-    padding: 30px;
+  background-color: #046380;
+  padding: 30px;
     text-align: center;
     font-size: 35px;
     color: white;
@@ -49,6 +49,7 @@ form{
   
 
 
+
 .container{
   overflow: auto;
     display: flex;
@@ -62,6 +63,20 @@ form{
     width: 260px;
 }
 
+.pages{
+  overflow: auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.pages > div{
+  background-color: rgba(194, 140, 40, 0.911);
+  color:black;
+  padding: 20px;
+  
+  margin: 10px;
+  width: 260px;
+}
 /*........................ dropdown...................*/
 
  /* Dropdown Button */
